@@ -1,0 +1,10 @@
+# macos
+.DS_Store
+Icon
+._*
+# jekyll
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+vendor
